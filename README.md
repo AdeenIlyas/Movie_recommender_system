@@ -7,7 +7,7 @@ A content-based movie recommendation system that suggests movies similar to the 
 # 💻 Installation & Usage
 🔹 Step 1: Clone the Repository using git clone https://github.com/AdeenIlyas/Movie_recommender_system.git
     
-   cd Movie_recommender_system
+       cd Movie_recommender_system
 
 🔹 Step 2: Install Dependencies
 
@@ -19,7 +19,7 @@ A content-based movie recommendation system that suggests movies similar to the 
 
 🔹 Step 4: Run the Web App
 
-   streamlit run app.py
+       streamlit run app.py
 
   
 
