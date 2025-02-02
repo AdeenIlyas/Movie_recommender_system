@@ -1,4 +1,4 @@
-<img width="413" alt="image" src="https://github.com/user-attachments/assets/4814c3fe-ec25-4f0b-8384-60fe85e21213" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/4814c3fe-ec25-4f0b-8384-60fe85e21213" />
 
 
 # Movie Recommender System
